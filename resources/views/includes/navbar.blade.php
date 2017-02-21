@@ -19,7 +19,7 @@
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li><a href="/crud_laravel/public/registrar">Registrar</a></li>
-                <li><a href="inscribir.php">Inscribir curso</a></li>
+                <li><a href="/crud_laravel/public/inscribir">Inscribir curso</a></li>
             </ul>
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
